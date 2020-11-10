@@ -1,5 +1,3 @@
-# expressNoteTaker
-
 ## User Story
 
 AS A user, I want to be able to write and save notes
